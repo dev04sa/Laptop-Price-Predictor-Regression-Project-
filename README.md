@@ -53,6 +53,12 @@ This will start a Streamlit server, and you can access the application by naviga
 - Utilizes a Random Forest Regressor algorithm for accurate predictions.
 - Provides an intuitive and user-friendly interface for input and output.
 
+- 
+
+
+
+
+https://github.com/dev04sa/Laptop-Price-Predictor-Regression-Project-/assets/129666293/c70484dd-b7c5-4840-b9a5-1e6be210ab3d
 
 
 
